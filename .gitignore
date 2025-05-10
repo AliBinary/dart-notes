@@ -23,5 +23,24 @@ doc/api/
 *.js.deps
 *.js.map
 
+# Flutter specific files and directories
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Dart packages
+/.dart_tool/
+/.packages
+
+# Dart VM snapshots
+.dart_tool/
+
+# IDE directories
+.idea/
+.vscode/
+
+# Build directories
+/build/
+
+# Flutter specific directories
 .flutter-plugins
 .flutter-plugins-dependencies
