@@ -24,7 +24,7 @@ To get started with Dart:
 2. **Set up your environment**: Follow the official guide to set up your environment for Dart development.
 3. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/dart-study-guide.git
+   git clone https://github.com/AliBinary/dart-study-guide.git
    cd dart-study-guide
    ```
 
